@@ -1,0 +1,5 @@
+id=1, productName=Iphone 5, description=Sản phẩm mới , category=điện thoại, category=điện thoại, category=điện thoại
+
+
+id=2, productName=xiao mi, description=sản phẩm lỗi thời, category=điện thoại, producer=xiaomi, price=500
+id=3, productName=xiao mi 10, description=sản phẩm mới, category=máy tính, producer=xiaomi, price=399
